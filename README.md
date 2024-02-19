@@ -1,2 +1,2 @@
 # LibraryManagement
-Kütüphane, belli yönergelere göre "Python Bootcamp" için hazırlanmıştır.
+Kütüphane Yönetimi, belli yönergelere göre "Python Bootcamp" için hazırlanmıştır.
